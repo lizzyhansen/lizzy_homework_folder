@@ -163,3 +163,4 @@ for ticker in tickers:
 # saveResults(results) # do this last and outside of for loop - save the results dictionary to a file called results.json
 saveresults(results)
 print("results saved to results.json")
+
